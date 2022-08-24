@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zooshop/static/css/main.538b7baa.css",
+    "main.js": "/zooshop/static/js/main.716e363b.js",
+    "index.html": "/zooshop/index.html",
+    "main.538b7baa.css.map": "/zooshop/static/css/main.538b7baa.css.map",
+    "main.716e363b.js.map": "/zooshop/static/js/main.716e363b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.538b7baa.css",
+    "static/js/main.716e363b.js"
+  ]
+}
